@@ -1,5 +1,5 @@
 # Pizza-App-Figma-UX
-Video: 
+Video: https://www.youtube.com/watch?v=kjyyUgFOPYw
 
 Zip: http://www.mediafire.com/file/5713ywfxcghocum/Pizza_App.zip/file
 
